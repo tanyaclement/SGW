@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW/annotations/margaret-avison-at-sir-george-williams-university-the-poetry-series-27-january-1967-canvas-1-audience-.json",
-            "label": {
-              "none": ["Audience "]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW/annotations/margaret-avison-at-sir-george-williams-university-the-poetry-series-27-january-1967-canvas-1-end.json",
             "label": {
               "none": ["END"]
