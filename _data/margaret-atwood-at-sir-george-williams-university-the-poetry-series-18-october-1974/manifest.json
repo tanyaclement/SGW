@@ -12,14 +12,6 @@
           
           {
             "type": "AnnotationPage",
-            "id": "https://tanyaclement.github.io/SGW/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1-audience-member-10.json",
-            "label": {
-              "none": ["Audience Member 10"]
-            }
-          }
-          ,
-          {
-            "type": "AnnotationPage",
             "id": "https://tanyaclement.github.io/SGW/annotations/margaret-atwood-at-sir-george-williams-university-the-poetry-series-18-october-1974-canvas-1--font-color---ff0000--margaret-atwood--font-.json",
             "label": {
               "none": ["\u003cfont color=\"#ff0000\"\u003eMargaret Atwood\u003c/font\u003e"]
